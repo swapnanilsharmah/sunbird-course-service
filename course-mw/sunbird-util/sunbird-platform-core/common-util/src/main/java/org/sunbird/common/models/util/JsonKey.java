@@ -547,12 +547,12 @@ public final class JsonKey {
   public static final String SUNBIRD_PG_USER = "sunbird_pg_user";
   public static final String SUNBIRD_PLUGIN = "sunbirdplugin";
   public static final String SUNBIRD_QUARTZ_MODE = "sunbird_quartz_mode";
-  public static final String SUNBIRD_SSO_CLIENT_ID = "sunbird_sso_client_id";
+  public static final String SUNBIRD_SSO_CLIENT_ID = "admin-cli";
   public static final String SUNBIRD_SSO_CLIENT_SECRET = "sunbird_sso_client_secret";
-  public static final String SUNBIRD_SSO_PASSWORD = "sunbird_sso_password";
-  public static final String SUNBIRD_SSO_RELAM = "sunbird_sso_realm";
-  public static final String SUNBIRD_SSO_URL = "sunbird_sso_url";
-  public static final String SUNBIRD_SSO_USERNAME = "sunbird_sso_username";
+  public static final String SUNBIRD_SSO_PASSWORD = "admin";
+  public static final String SUNBIRD_SSO_RELAM = "Sunbird";
+  public static final String SUNBIRD_SSO_URL = "https://apgsws.in/auth";
+  public static final String SUNBIRD_SSO_USERNAME = "admin";
   public static final String SUNBIRD_WEB_URL = "sunbird_web_url";
   public static final String SUNBIRD_GET_ORGANISATION_API = "sunbird_search_organisation_api";
   public static final String SUNBIRD_GET_SINGLE_USER_API = "sunbird_read_user_api";
